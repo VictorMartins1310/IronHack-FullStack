@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "FrontEndProject"
+		},
+		{
+			"path": "BackEndProject"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 13
+	},
+	"launch": {
+		"version": "0.2.0",
+		"compounds": [
+		{
+			"name": "Run FullStack Application",
+			"configurations": ["Run BackEnd Application", "Run FrontEnd Application"],
+			"stopAll": true,
+			"presentation": {
+				"hidden": false,
+				"group": "fullstack"
+			}
+		}]
+	}
+}
