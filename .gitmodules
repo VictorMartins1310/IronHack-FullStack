@@ -5,4 +5,4 @@
 [submodule "FrontEndProject"]
 	path = FrontEndProject
 	url = https://github.com/VictorMartins1310/FrontEndProject.git
-	main = main
+	branch = main
