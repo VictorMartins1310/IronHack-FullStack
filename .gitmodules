@@ -1,8 +1,8 @@
 [submodule "BackEndProject"]
 	path = BackEndProject
-	url = https://github.com/VictorMartins1310/IronHackBackendProject.git
+	url = https://github.com/VictorMartins1310/IronHack-BackEnd.git
 	branch = main
 [submodule "FrontEndProject"]
 	path = FrontEndProject
-	url = https://github.com/VictorMartins1310/FrontEndProject.git
+	url = https://github.com/VictorMartins1310/Ironhack-FrontEnd.git
 	branch = main
